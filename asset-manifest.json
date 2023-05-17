@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efd691fd.css",
+    "main.js": "/static/js/main.ef997f88.js",
+    "static/media/sunset-pool.jpg": "/static/media/sunset-pool.e250a86ea8655ec8c75b.jpg",
+    "static/media/trekking.jpg": "/static/media/trekking.013c928528fe9bdde7a0.jpg",
+    "static/media/food.jpg": "/static/media/food.1e8ae8c69e5083dc7f2b.jpg",
+    "static/media/pottery.jpg": "/static/media/pottery.c0e238b330a2646da597.jpg",
+    "static/media/white-chair-dinner-parasol-wedding.jpg": "/static/media/white-chair-dinner-parasol-wedding.b39903b38388ec1b97cc.jpg",
+    "static/media/hotel-male-maldives-outdoor-blue.jpg": "/static/media/hotel-male-maldives-outdoor-blue.3328601bd5a4838cf14c.jpg",
+    "static/media/traveller.jpg": "/static/media/traveller.d0734a3ed884d6285d98.jpg",
+    "static/media/birds.jpg": "/static/media/birds.c1a1c36d4b86fa913c71.jpg",
+    "static/media/high-angle-pillows-bed-indoors.jpg": "/static/media/high-angle-pillows-bed-indoors.7e5ed7314caefaed8775.jpg",
+    "static/media/hotel.jpg": "/static/media/hotel.1038c6c6acdbc93111a3.jpg",
+    "static/media/banner-2.jpg": "/static/media/banner-2.3aa4520b6adf055c9fe6.jpg",
+    "static/media/dance.jpg": "/static/media/dance.619a50a28eb1bff02fae.jpg",
+    "static/media/sea.jpg": "/static/media/sea.cb4e533167abad39bff8.jpg",
+    "static/media/banner-4.jpg": "/static/media/banner-4.1e75b6a2d206733853e6.jpg",
+    "static/media/banner-5.jpg": "/static/media/banner-5.5a78ae84711800c1a49e.jpg",
+    "static/media/banner-3.jpg": "/static/media/banner-3.f031b515cc125c7aea64.jpg",
+    "static/media/about1.jpg": "/static/media/about1.bdf0f9a98a13d122e150.jpg",
+    "static/media/banner-1.jpg": "/static/media/banner-1.ca4097a7bc41a494cb42.jpg",
+    "static/media/logo.png": "/static/media/logo.033b95dc4b360a4f4279.png",
+    "index.html": "/index.html",
+    "main.efd691fd.css.map": "/static/css/main.efd691fd.css.map",
+    "main.ef997f88.js.map": "/static/js/main.ef997f88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efd691fd.css",
+    "static/js/main.ef997f88.js"
+  ]
+}
